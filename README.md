@@ -53,4 +53,5 @@ public class Character {
 }
 
 ## UML Diagram
+![Strategy Pattern Activity](https://github.com/ClarkBelen/strategyPattern/assets/142368338/7e6b1466-3f66-463e-8c06-0d0fd5b28e29)
 
